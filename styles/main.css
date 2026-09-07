@@ -1,0 +1,26 @@
+/* Dominique Cronier 9/6/26 */
+
+nav ul {
+    background-color: lightblue;
+}
+
+nav li {
+    list-style-type: none;
+
+}
+nav li:hover {
+    background-color: #a8c
+
+}
+nav li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #1a3d5c 
+}
+
+tbody tr:nth-child(even) {
+    background-color: #e8eef4;
+}
+.bordered-image {
+    border: 3px solid black;
+}
